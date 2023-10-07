@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 -0.5 65 65"
+   shape-rendering="crispEdges"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="playerIcon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false" />
+  <metadata
+     id="metadata2">Made with Pixels to Svg https://codepen.io/shshaw/pen/XbxvNj</metadata>
+  <circle
+     style="fill:#1a1a1a;stroke:none;stroke-width:1.43752"
+     id="path1549"
+     cy="32"
+     cx="32.5"
+     r="32.5" />
+  <g
+     id="g1843">
+    <rect
+       style="fill:#f9f9f9;stroke:none"
+       id="rect1820"
+       width="33.5"
+       height="11.5"
+       x="15.75"
+       y="39.375" />
+    <ellipse
+       style="fill:#f9f9f9;stroke:none"
+       id="path1833"
+       cx="32.5"
+       cy="20.75"
+       rx="6.3125"
+       ry="6.125" />
+    <rect
+       style="fill:#f9f9f9;stroke:none"
+       id="rect1835"
+       width="2.4375"
+       height="14.5"
+       x="31.28125"
+       y="25.4375" />
+  </g>
+</svg>
